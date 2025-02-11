@@ -18,7 +18,7 @@ content = <<~CONTENT
   layout: default
   title: "#{title}"
   date: #{date.strftime('%Y-%m-%d %H:%M:%S %z')}
-  categories:#{' '}
+  categories:
   - programming
   # - note
   # - report
